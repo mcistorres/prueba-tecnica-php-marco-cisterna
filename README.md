@@ -1,12 +1,13 @@
-# Sistema de Gestión de Usuarios
+# Prueba Técnica PHP - Marco Cisterna
 
 ## Descripción
 Este proyecto implementa un sistema de gestión de usuarios siguiendo los principios de Arquitectura Limpia (Clean Architecture) y Domain-Driven Design (DDD).
 
 ## Requisitos Previos
-- PHP 8.0 o superior
+- PHP 8.1
 - Composer
 - PHPUnit
+
 
 ## Instalación
 
